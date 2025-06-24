@@ -45,16 +45,16 @@ export default function DeployPage() {
                 <div className="bg-blue-50 border border-blue-200 rounded-lg p-4 mb-6">
                   <div className="flex items-center justify-between">
                     <div>
-                      <h4 className="font-semibold text-blue-900">青阳博客模板</h4>
+                      <h4 className="font-semibold text-blue-900">青阳博客产品</h4>
                       <p className="text-blue-700 text-sm">完整的博客系统，开箱即用</p>
                     </div>
                     <a 
-                      href="https://github.com/qingyangblogs/qingyang-blog" 
+                      href="https://github.com/PowerBreaker/cangqing_blog" 
                       target="_blank"
                       className="bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition-colors flex items-center space-x-2"
                     >
                       <Download className="w-4 h-4" />
-                      <span>下载模板</span>
+                      <span>下载产品</span>
                     </a>
                   </div>
                 </div>
@@ -73,7 +73,7 @@ export default function DeployPage() {
                 <div className="mt-4 p-4 bg-gray-50 rounded-lg">
                   <h5 className="font-medium text-gray-900 mb-2">操作说明：</h5>
                   <ol className="list-decimal list-inside space-y-1 text-gray-600">
-                    <li>点击上方"下载模板"按钮</li>
+                    <li>点击上方"下载产品"按钮</li>
                     <li>在GitHub页面点击绿色"Code"按钮</li>
                     <li>选择"Download ZIP"下载到电脑</li>
                     <li>解压文件到您喜欢的文件夹</li>
